@@ -137,7 +137,7 @@ I’m passionate about **building impactful software**, especially tools that fo
 
 ---
 
-## 📊 GitHub Stats *(optional)*
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SuzyUwU&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=SuzyUwU&theme=tokyonight&hide_border=false)
