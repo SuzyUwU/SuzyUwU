@@ -103,8 +103,37 @@ I’m passionate about **building impactful software**, especially tools that fo
 
 ---
 
-## ✨ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🌷 Favorite Quotes
+
+> **“The world doesn’t make sense, so why should I paint pictures that do?”**
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/e2/1a/74/e21a74fa713b97c8d1ecad2fd7a8a468.jpg" width="420"/>
+</div>
+
+> **“I grow where there is warmth.”**
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/736x/73/94/9a/73949a3c6bbfa53b533b216367c0bcb5.jpg" width="420"/>
+</div>
+
+> **“I’ve changed so much, but I’m still me.”**
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/736x/ad/11/df/ad11df2e4643a56cfc3f8c9d5338e139.jpg" width="420"/>
+</div>
+
+> **“Your worth doesn’t depend on someone else’s opinion.”**
+
+<div align="center">
+  <img src="https://i.pinimg.com/736x/f8/c2/fb/f8c2fbc5e3ea0085d4dc80656149e762.jpg" width="420"/>
+</div>
 
 ---
 
