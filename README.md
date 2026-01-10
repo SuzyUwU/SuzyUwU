@@ -5,7 +5,7 @@
 
 🌈 **Pronouns:** Any (preferably **She / They**)  
 💻 **Computer Science student** focused on accessibility, usability, and data-driven software  
-
+🎓 **Student @ Universitas Negeri Surabaya**
 </div>
 
 ---
