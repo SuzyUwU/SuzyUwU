@@ -137,11 +137,13 @@ I’m passionate about **building impactful software**, especially tools that fo
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SuzyUwU&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=SuzyUwU&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzyUwU&theme=tokyonight&hide_border=false&layout=compact)
+## 📊 GitHub Stats:
+<p align="left">
+<a href="https://github.com/SuzyUwU">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuzyUwU&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SuzyUwU&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
